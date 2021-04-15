@@ -1,3 +1,4 @@
+//Name: Waleed Abu Raida
 #include <stdio.h>
 
 int main(void)
